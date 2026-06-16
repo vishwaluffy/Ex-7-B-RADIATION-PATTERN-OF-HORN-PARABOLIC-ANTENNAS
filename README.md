@@ -1,5 +1,5 @@
-## NAME: S.MANI RAMA BALAN
-## REG NO: 212224060145
+## NAME: M.SRI VISHWA
+## REG NO: 212224060261
 ## 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 ## Aim:
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
